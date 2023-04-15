@@ -9,3 +9,6 @@ xmysql requires node >= 7.6.0
 npm install -g xmysql
 xmysql -h localhost -u mysqlUsername -p mysqlPassword -d databaseName
 http://localhost:3000
+
+
+![API for classicmodels](https://user-images.githubusercontent.com/122126853/232250717-177f4337-c208-456c-9542-0292413f8e58.JPG)
