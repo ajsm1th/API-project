@@ -15,3 +15,6 @@ http://localhost:3000
 
 
 ![API VS screenshot](https://user-images.githubusercontent.com/122126853/232250796-bd5059b1-5459-4dd8-b256-f83c2a13e4f5.JPG)
+
+
+![mysql classicmodels tables](https://user-images.githubusercontent.com/122126853/232250833-0621e5aa-69b6-4ac0-a2de-daf0b7e26ec2.JPG)
